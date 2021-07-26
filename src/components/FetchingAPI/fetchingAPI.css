@@ -1,7 +1,0 @@
-.dataPost > li{
-  margin-bottom: 1em;
-}
-
-.dataPost > li > ol > li {
-  list-style: lower-alpha;
-}

@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'react-material-ui-carousel'
-import { Paper, makeStyles } from '@material-ui/core'
+import { makeStyles } from '@material-ui/core'
 import { useSelector } from 'react-redux';
 const useStyles = makeStyles(theme => ({
 	carouselContainer:{
